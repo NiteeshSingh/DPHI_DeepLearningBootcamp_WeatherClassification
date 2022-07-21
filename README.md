@@ -1,6 +1,6 @@
 # DPHI_DeepLearningBootcamp_WeatherClassification
 
-##It Contains 2 colab file
+## It Contains 2 colab file
 
 #### DPhi_Datathon.ipynb
  * It contains the Weather Classifer Build From Scratch using tensorflow
